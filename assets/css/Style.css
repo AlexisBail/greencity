@@ -251,9 +251,7 @@ h1.bas::before {
     text-align: center;
 }
 
-/* ===================================
-   SECTION GALERIE PHOTOS
-=================================== */
+/* SECTION GALERIE PHOTOS */
 .container1 {
     display: flex;
     flex-wrap: wrap;
@@ -300,9 +298,7 @@ h1.bas::before {
     transform: translateY(0);
 }
 
-/* ===================================
-   LIGHTBOX
-=================================== */
+/* LIGHTBOX */
 .lightbox {
     display: none;
     position: fixed;
