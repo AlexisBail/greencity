@@ -1,7 +1,7 @@
 /* ===== import de police ===== */
 @font-face {
   font-family: "NaturalFolklore";
-  src: url('../font/NATURAL\ FOLKLORE\ DEMO.otf') format('opentype');
+  src: url('../font/NATURAL-FOLKLORE-DEMO.otf') format('opentype');
 }
 
 /* ===== mise en page ===== */
@@ -70,7 +70,7 @@ body {
 /* ===== ici c'est le header ===== */
 header {
   margin-top: 80px;
-  background: url(/pages/image/villeverte.jpg) no-repeat center center;
+  background: url(../image/villeverte.jpg) no-repeat center center;
   background-size: cover;
   height: 70vh;
   display: flex;
@@ -620,23 +620,23 @@ img {
 /*Lien pour les images des cartes*/
 
 .card4[for="c1"] {
-    background-image: url(/pages/image/Bike.png);
+    background-image: url(../image/Bike.png);
 }
 
 .card4[ for="c2"] {
-   background-image: url(/pages/image/Balcons.png);
+   background-image: url(../image/Balcons.png);
 }
 
 .card4[ for="c3"] {
-   background-image: url(/pages/image/Arbres.png);
+   background-image: url(../image/Arbres.png);
 }
 
 .card4[ for="c4"] {
-   background-image: url(/pages/image/eolienne.jpeg);
+   background-image: url(../image/eolienne.jpeg);
 }
 
 .card4[ for="c5"] {
-   background-image: url(/pages/image/Nettoyage.png);
+   background-image: url(../image/Nettoyage.png);
 }
 
 /*numérotation des cartes (1,2,3,4,5)*/
